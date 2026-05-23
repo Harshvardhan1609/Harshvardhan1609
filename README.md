@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║   GitHub Profile README — Er. Harshvardhan Purohit             ║
-     ║   Swap CEOHarshvardhan everywhere below with your real handle.   ║
+     ║   Swap Harshvardhan1609 everywhere below with your real handle.   ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=CEOHarshvardhan&label=Profile%20Views&color=7A1F2B&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Harshvardhan1609&label=Profile%20Views&color=7A1F2B&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -105,12 +105,12 @@ class Harshvardhan:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CEOHarshvardhan&show_icons=true&theme=vue-dark&title_color=B8860B&icon_color=B8860B&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEOHarshvardhan&layout=compact&theme=vue-dark&title_color=B8860B&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan1609&show_icons=true&theme=vue-dark&title_color=B8860B&icon_color=B8860B&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan1609&layout=compact&theme=vue-dark&title_color=B8860B&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CEOHarshvardhan&theme=vue-dark&ring=B8860B&fire=B8860B&currStreakLabel=B8860B&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan1609&theme=vue-dark&ring=B8860B&fire=B8860B&currStreakLabel=B8860B&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -142,6 +142,6 @@ class Harshvardhan:
 
 ### *"Build in India. Build for the world."* 🪔
 
-<sub>⭐ From <a href="https://github.com/CEOHarshvardhan">Harshvardhan Purohit</a> — let's build the future of AI together.</sub>
+<sub>⭐ From <a href="https://github.com/Harshvardhan1609">Harshvardhan Purohit</a> — let's build the future of AI together.</sub>
 
 </div>
