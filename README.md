@@ -10,9 +10,9 @@
 
 <!-- ░░░░░░░░░░░░  BRAND LOGOS  ░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="sintech.png" alt="SIN Technologies" height="90" />
+  <img src="https://raw.githubusercontent.com/Harshvardhan1609/Harshvardhan1609/main/sintech.png" alt="SIN Technologies" height="90" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="soai.png" alt="SIN School of AI" height="90" />
+  <img src="https://raw.githubusercontent.com/Harshvardhan1609/Harshvardhan1609/main/soai.png" alt="SIN School of AI" height="90" />
 </p>
 
 <!-- ░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░ -->
@@ -68,7 +68,7 @@ class Harshvardhan:
 ## 🏛️ What I'm Building — SIN Technologies
 
 <p align="center">
-  <img src="./sintech.png" alt="SIN Technologies" height="110" />
+  <img src="https://raw.githubusercontent.com/Harshvardhan1609/Harshvardhan1609/main/sintech.png" alt="SIN Technologies" height="110" />
 </p>
 
 > *A DPIIT-registered, ISO 9001:2015-certified AI and EdTech startup operating across six verticals.*
