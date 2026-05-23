@@ -1,30 +1,37 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║   GitHub Profile README — Er. Harshvardhan Purohit             ║
-     ║   Swap Harshvardhan1609 everywhere below with your real handle.   ║
+     ║   Handle: Harshvardhan1609  ·  Brand: Maroon #7A1F2B / Gold    ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
+<!-- ░░░░░░░░░░░░░░  ANIMATED HEADER WAVE  ░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1F2B,50:9B2D3C,100:B8860B&height=220&section=header&text=Harshvardhan%20Purohit&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Founder%20%26%20CEO%20%C2%B7%20SIN%20Technologies%20%C2%B7%20Building%20India's%20AI%20Future&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+
+<!-- ░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░ -->
 <div align="center">
 
-<!-- Optional: replace with a custom banner image hosted in your repo -->
-<!-- <img src="banner.png" alt="Harshvardhan Purohit" width="100%"/> -->
+<a href="https://github.com/Harshvardhan1609">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B8860B&center=true&vCenter=true&width=620&lines=AI+%26+ML+Gold+Medalist+%F0%9F%A5%87;PM+Shri+National+AI+Expert+%F0%9F%87%AE%F0%9F%87%B3;Founder+%26+CEO+%40+SIN+Technologies;Building+the+Trilok+XR+Universe+%F0%9F%A5%BD;Ancient+Wisdom.+Modern+Technology." alt="Typing SVG" />
+</a>
 
-# नमस्ते, I'm Er Harshvardhan Purohit 👋
+<br/>
 
-### Founder &amp; CEO · SIN Education and Technology Pvt. Ltd. · Building India's AI Future 🇮🇳
+<!-- ░░░░░░░░░░░░░░  CREDENTIAL BADGES  ░░░░░░░░░░░░░░ -->
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Gold%20Medalist-B8860B?style=flat-square&labelColor=7A1F2B" />
+<img src="https://img.shields.io/badge/PM%20Shri-National%20AI%20Expert-B8860B?style=flat-square&labelColor=7A1F2B" />
+<img src="https://img.shields.io/badge/DPIIT-Recognized-B8860B?style=flat-square&labelColor=7A1F2B" />
+<img src="https://img.shields.io/badge/ISO-9001%3A2015-B8860B?style=flat-square&labelColor=7A1F2B" />
 
-<p>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Gold%20Medalist-%23B8860B?style=flat-square" />
-<img src="https://img.shields.io/badge/PM%20Shri-National%20AI%20Expert-%237A1F2B?style=flat-square" />
-<img src="https://img.shields.io/badge/DPIIT-Recognized%20Startup-%23B8860B?style=flat-square" />
-<img src="https://img.shields.io/badge/ISO-9001%3A2015%20Certified-%237A1F2B?style=flat-square" />
-</p>
+<br/><br/>
 
-<!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=Harshvardhan1609&label=Profile%20Views&color=7A1F2B&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Harshvardhan1609&label=Profile%20Views&color=7A1F2B&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/Harshvardhan1609?tab=followers">
+<img src="https://img.shields.io/github/followers/Harshvardhan1609?label=Followers&style=for-the-badge&color=B8860B&labelColor=7A1F2B" />
+</a>
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" alt="divider"/>
 
 ## 🚀 About Me
 
@@ -39,17 +46,17 @@ class Harshvardhan:
 
     def current_focus(self):
         return [
-            "🧠 Building SIN School of AI curriculum (RAG, GenAI, Agentic AI)",
-            "🥽 Crafting the Trilok XR Universe (Ramayan / Mahabharat / Vrindavan)",
-            "🎙️ Engineering the SIN Cinematic TTS Engine",
-            "🎓 Empowering 20+ campuses via SIN Campus Ambassadors 2026",
+            "🧠 SIN School of AI curriculum (RAG · GenAI · Agentic AI)",
+            "🥽 Trilok XR Universe (Ramayan / Mahabharat / Vrindavan)",
+            "🎙️ SIN Cinematic TTS Engine",
+            "🎓 SIN Campus Ambassadors 2026 — 20+ campuses",
         ]
 
     def philosophy(self):
-        return "Ancient wisdom. Modern technology. Built in India, for the world."
+        return "Built in India, for the world. 🪔"
 ```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" alt="divider"/>
 
 ## 🏛️ What I'm Building — SIN Technologies
 
@@ -64,84 +71,79 @@ class Harshvardhan:
 | ⚙️ **Industra ERP** | No-code business management suite |
 | 🧭 **Xcellence Board** | Career Intelligence DNA &amp; campus placement platform |
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
 
 **Frameworks &amp; Libraries**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
 
-**AI / ML**
-<p>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-7A1F2B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind" />
 
-**Backend &amp; Cloud**
-<p>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+**AI / ML &amp; Cloud**
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,supabase,redis,netlify,vercel" />
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" alt="divider"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan1609&show_icons=true&theme=vue-dark&title_color=B8860B&icon_color=B8860B&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan1609&layout=compact&theme=vue-dark&title_color=B8860B&hide_border=true&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan1609&show_icons=true&theme=vue-dark&title_color=B8860B&icon_color=B8860B&hide_border=true&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan1609&layout=compact&theme=vue-dark&title_color=B8860B&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan1609&theme=vue-dark&ring=B8860B&fire=B8860B&currStreakLabel=B8860B&hide_border=true&background=0D1117" />
 
+<br/>
+
+<!-- Animated contribution snake -->
+<img src="https://raw.githubusercontent.com/Harshvardhan1609/Harshvardhan1609/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Harshvardhan1609&theme=onedark&no-frame=true&column=7&margin-w=5&title_color=B8860B" />
+
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" alt="divider"/>
 
 ## 🌟 Featured Projects
 
-- 🤖 **[Darbar](#)** — Multi-agent AI chat platform with seven historical-figure agents (React · Supabase · Gemini)
-- 📔 **[AI Diary](https://aidiaryindia.netlify.app)** — Social journaling app with a Digital Vault
-- 🧭 **[Orbit LMS](https://orbitlms.netlify.app)** — Modern learning management system
-- 🏆 **[Xcellence Board](https://xcellenceboard.com)** — Career intelligence &amp; placement platform
+<div align="center">
 
----
+| Project | Description | Live |
+|---------|-------------|:----:|
+| 🤖 **Darbar** | Multi-agent AI chat — 7 historical-figure agents (React · Supabase · Gemini) | — |
+| 📔 **AI Diary** | Social journaling app with a Digital Vault | [🔗](https://aidiaryindia.netlify.app) |
+| 🧭 **Orbit LMS** | Modern learning management system | [🔗](https://orbitlms.netlify.app) |
+| 🏆 **Xcellence Board** | Career intelligence &amp; placement platform | [🔗](https://xcellenceboard.com) |
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" alt="divider"/>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/harshvardhan1609/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-7A1F2B?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://xcellenceboard.com"><img src="https://img.shields.io/badge/SIN%20Technologies-7A1F2B?style=for-the-badge&logoColor=white" /></a>
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://xcellenceboard.com"><img src="https://img.shields.io/badge/SIN%20Technologies-B8860B?style=for-the-badge&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-### *"Build in India. Build for the world."* 🪔
-
-<sub>⭐ From <a href="https://github.com/Harshvardhan1609">Harshvardhan Purohit</a> — let's build the future of AI together.</sub>
-
-</div>
+<!-- ░░░░░░░░░░░░░░  ANIMATED FOOTER WAVE  ░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:9B2D3C,100:7A1F2B&height=150&section=footer&text=Build%20in%20India.%20Build%20for%20the%20world.&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=twinkling" alt="footer"/>
