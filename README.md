@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║   GitHub Profile README — Er. Harshvardhan Purohit             ║
-     ║   Swap YOUR_USERNAME everywhere below with your real handle.   ║
+     ║   Swap CEOHarshvardhan everywhere below with your real handle.   ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7A1F2B&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=CEOHarshvardhan&label=Profile%20Views&color=7A1F2B&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -105,12 +105,12 @@ class Harshvardhan:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&title_color=B8860B&icon_color=B8860B&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&title_color=B8860B&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CEOHarshvardhan&show_icons=true&theme=vue-dark&title_color=B8860B&icon_color=B8860B&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEOHarshvardhan&layout=compact&theme=vue-dark&title_color=B8860B&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vue-dark&ring=B8860B&fire=B8860B&currStreakLabel=B8860B&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CEOHarshvardhan&theme=vue-dark&ring=B8860B&fire=B8860B&currStreakLabel=B8860B&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -129,7 +129,7 @@ class Harshvardhan:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshvardhan1609/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-7A1F2B?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://xcellenceboard.com"><img src="https://img.shields.io/badge/SIN%20Technologies-B8860B?style=for-the-badge&logoColor=white" /></a>
@@ -142,6 +142,6 @@ class Harshvardhan:
 
 ### *"Build in India. Build for the world."* 🪔
 
-<sub>⭐ From <a href="https://github.com/YOUR_USERNAME">Harshvardhan Purohit</a> — let's build the future of AI together.</sub>
+<sub>⭐ From <a href="https://github.com/CEOHarshvardhan">Harshvardhan Purohit</a> — let's build the future of AI together.</sub>
 
 </div>
