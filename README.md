@@ -10,9 +10,9 @@
 
 <!-- ░░░░░░░░░░░░  BRAND LOGOS  ░░░░░░░░░░░░ -->
 <p align="center">
-  <img src="./sintech.png" alt="SIN Technologies" height="90" />
+  <img src="sintech.png" alt="SIN Technologies" height="90" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./soai.png" alt="SIN School of AI" height="90" />
+  <img src="soai.png" alt="SIN School of AI" height="90" />
 </p>
 
 <!-- ░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░ -->
