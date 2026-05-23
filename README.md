@@ -8,7 +8,7 @@
 <!-- Optional: replace with a custom banner image hosted in your repo -->
 <!-- <img src="banner.png" alt="Harshvardhan Purohit" width="100%"/> -->
 
-# नमस्ते, I'm Harshvardhan Purohit 👋
+# नमस्ते, I'm Er Harshvardhan Purohit 👋
 
 ### Founder &amp; CEO · SIN Education and Technology Pvt. Ltd. · Building India's AI Future 🇮🇳
 
